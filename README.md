@@ -1,28 +1,52 @@
-# KLH_CSE_2026-2027_Team4_Optimal-BST
+Optimal Binary Search TreePr
 
-## Abstract
+oject TitleOptim
 
-The **Optimal Binary Search Tree (Optimal BST)** is a data structure used to organize keys in a way that minimizes the expected search cost based on the frequency of key accesses. In a normal Binary Search Tree, the arrangement of nodes may result in inefficient searching when some keys are accessed more frequently than others. This project focuses on designing and implementing an Optimal BST to improve search efficiency.
+al Binary Search TreeTeam Deta
 
-The system takes a set of sorted keys along with their search frequencies and uses **Dynamic Programming** to determine the optimal tree structure. It calculates the minimum expected search cost and constructs the corresponding Optimal BST. The project demonstrates the practical application of **Data Structures, Binary Search Trees, and Dynamic Programming** to solve an optimization problem.
+ilsTeam Number:
 
-## Objectives
+ 4ID Number Name25
 
-* To understand the concept of Optimal Binary Search Trees.
-* To minimize the expected search cost.
-* To implement the Optimal BST using Dynamic Programming.
-* To analyze the time and space complexity of the algorithm.
-* To provide an efficient structure for frequently accessed keys.
+20030292 P. Revnath2520030507 Akh
+il2520030595 Sri Sai PradyumnAbst
+ractThe Optimal Search Tree is a 
+software application designed to 
+construct a Binary Search Tree us
 
-## Technologies Used
+ing the sea
 
-* **Java**
-* **Data Structures and Algorithms**
-* **Dynamic Programming**
-* **GitHub**
+rch frequencies of different keys. In a normal Binary Search Tree, frequently searched keys may not always be placed in the best position, which can increase the overall search cost. This project aims to arrange the keys in an efficient way to reduce the average search cost.The system takes a set of distinct keys and their search frequencies as input. It uses the Dynamic Program
 
-## Project Team
+ming technique to find the best possible arrangement of the keys. The program checks different possible root nodes and calculates the cost of each arrangement. It then selects the arrangement with the minimum expected search cost.The application displays the resulting Optimal Binary Search Tree and shows its minimum search cost. This 
 
-**Team 4 – Optimal BST**
+makes it easier for users to understand how the position of a key affects searching efficiency.The main objective of this project is to demonstrate the practical use of Dynamic Programming in solving a
 
-KLH CSE 2026-2027
+n optimization problem. Overall, the project provides a simple and easy-to-understand implementation of an Optimal Binary Search Tree and helps improve the efficiency of searching frequently accessed keys.SetupRequirementsJava JDKIntelliJ IDEA / Eclipse / Visual Studio CodeGitClone the Repositorygit clone http
+
+s://gith
+
+ub.com/prabandal
+
+arevanth13
+7/Team-4_Optimal-Binary-Search-Tree.gitRun the
+ Proj
+
+ectOpen the project in I
+
+ntelliJ
+ IDEA, Eclipse, or Visual Studio Code.If the main file is OptimalBST.java, compile and 
+run
+
+ it using:javac Opt
+
+imalBST.javajava OptimalBSTThe program takes distinct keys and their s
+
+earch frequencies as input and displays the Optimal Binary Searc
+
+h Tree 
+and its minimum searc
+h cost.Technolo
+gie
+
+s UsedProgramming Language: JavaAlgorithm: Dynamic ProgrammingData Structure: Binary Search TreeVersion Control: Git and GitHub
